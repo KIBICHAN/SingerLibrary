@@ -1,0 +1,12 @@
+D:\Study\PRN292\SingerLibrary\SingerLibrary\bin\Debug\net5.0-windows\SingerLibrary.deps.json
+D:\Study\PRN292\SingerLibrary\SingerLibrary\bin\Debug\net5.0-windows\SingerLibrary.dll
+D:\Study\PRN292\SingerLibrary\SingerLibrary\bin\Debug\net5.0-windows\ref\SingerLibrary.dll
+D:\Study\PRN292\SingerLibrary\SingerLibrary\bin\Debug\net5.0-windows\SingerLibrary.pdb
+D:\Study\PRN292\SingerLibrary\SingerLibrary\obj\Debug\net5.0-windows\SingerLibrary.csprojAssemblyReference.cache
+D:\Study\PRN292\SingerLibrary\SingerLibrary\obj\Debug\net5.0-windows\SingerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\PRN292\SingerLibrary\SingerLibrary\obj\Debug\net5.0-windows\SingerLibrary.AssemblyInfoInputs.cache
+D:\Study\PRN292\SingerLibrary\SingerLibrary\obj\Debug\net5.0-windows\SingerLibrary.AssemblyInfo.cs
+D:\Study\PRN292\SingerLibrary\SingerLibrary\obj\Debug\net5.0-windows\SingerLibrary.csproj.CoreCompileInputs.cache
+D:\Study\PRN292\SingerLibrary\SingerLibrary\obj\Debug\net5.0-windows\SingerLibrary.dll
+D:\Study\PRN292\SingerLibrary\SingerLibrary\obj\Debug\net5.0-windows\ref\SingerLibrary.dll
+D:\Study\PRN292\SingerLibrary\SingerLibrary\obj\Debug\net5.0-windows\SingerLibrary.pdb

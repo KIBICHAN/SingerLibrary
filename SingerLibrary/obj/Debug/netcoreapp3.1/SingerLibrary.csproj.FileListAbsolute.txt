@@ -1,0 +1,8 @@
+D:\Study\PRN292\SingerLibrary\SingerLibrary\obj\Debug\netcoreapp3.1\SingerLibrary.AssemblyInfoInputs.cache
+D:\Study\PRN292\SingerLibrary\SingerLibrary\obj\Debug\netcoreapp3.1\SingerLibrary.AssemblyInfo.cs
+D:\Study\PRN292\SingerLibrary\SingerLibrary\obj\Debug\netcoreapp3.1\SingerLibrary.csproj.CoreCompileInputs.cache
+D:\Study\PRN292\SingerLibrary\SingerLibrary\bin\Debug\netcoreapp3.1\SingerLibrary.deps.json
+D:\Study\PRN292\SingerLibrary\SingerLibrary\bin\Debug\netcoreapp3.1\SingerLibrary.dll
+D:\Study\PRN292\SingerLibrary\SingerLibrary\bin\Debug\netcoreapp3.1\SingerLibrary.pdb
+D:\Study\PRN292\SingerLibrary\SingerLibrary\obj\Debug\netcoreapp3.1\SingerLibrary.dll
+D:\Study\PRN292\SingerLibrary\SingerLibrary\obj\Debug\netcoreapp3.1\SingerLibrary.pdb
